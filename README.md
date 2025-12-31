@@ -67,6 +67,8 @@ _Prerequisite: Install "Git Bash"._
 2.  Select **"Open with..."** -> **"Git Bash"**.
 3.  Follow the prompts.
 
+> **Resource Management:** Every deployment consumes credits and monthly resource allowances from your Netlify account. Free plans have more limited resources than paid ones. To stay within your free tier, avoid making unnecessary or repetitive deployments.
+
 ---
 
 #### How to find your Project ID (Existing Projects)
